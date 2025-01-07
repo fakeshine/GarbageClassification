@@ -400,4 +400,4 @@ FodyWeavers.xsd
 *.sln.iml
 
 # Datasets folder
-.Dataset/
+Dataset/
